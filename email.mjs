@@ -23,3 +23,4 @@ if(options.subject && options. to && options.message){
     // console.log('Message sent');
 } else {
     console.log('Some options are missing');
+}
